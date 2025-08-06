@@ -1,0 +1,1826 @@
+date,department,required_staff,day_of_week
+2024-08-07,Front Desk,5,Wednesday
+2024-08-07,Housekeeping,3,Wednesday
+2024-08-07,Kitchen,5,Wednesday
+2024-08-07,Security,5,Wednesday
+2024-08-07,Maintenance,3,Wednesday
+2024-08-08,Front Desk,3,Thursday
+2024-08-08,Housekeeping,5,Thursday
+2024-08-08,Kitchen,4,Thursday
+2024-08-08,Security,5,Thursday
+2024-08-08,Maintenance,5,Thursday
+2024-08-09,Front Desk,5,Friday
+2024-08-09,Housekeeping,5,Friday
+2024-08-09,Kitchen,3,Friday
+2024-08-09,Security,5,Friday
+2024-08-09,Maintenance,4,Friday
+2024-08-10,Front Desk,5,Saturday
+2024-08-10,Housekeeping,6,Saturday
+2024-08-10,Kitchen,6,Saturday
+2024-08-10,Security,6,Saturday
+2024-08-10,Maintenance,6,Saturday
+2024-08-11,Front Desk,5,Sunday
+2024-08-11,Housekeeping,5,Sunday
+2024-08-11,Kitchen,6,Sunday
+2024-08-11,Security,6,Sunday
+2024-08-11,Maintenance,5,Sunday
+2024-08-12,Front Desk,3,Monday
+2024-08-12,Housekeeping,3,Monday
+2024-08-12,Kitchen,5,Monday
+2024-08-12,Security,5,Monday
+2024-08-12,Maintenance,5,Monday
+2024-08-13,Front Desk,4,Tuesday
+2024-08-13,Housekeeping,5,Tuesday
+2024-08-13,Kitchen,4,Tuesday
+2024-08-13,Security,4,Tuesday
+2024-08-13,Maintenance,5,Tuesday
+2024-08-14,Front Desk,4,Wednesday
+2024-08-14,Housekeeping,5,Wednesday
+2024-08-14,Kitchen,5,Wednesday
+2024-08-14,Security,3,Wednesday
+2024-08-14,Maintenance,5,Wednesday
+2024-08-15,Front Desk,3,Thursday
+2024-08-15,Housekeeping,5,Thursday
+2024-08-15,Kitchen,5,Thursday
+2024-08-15,Security,3,Thursday
+2024-08-15,Maintenance,3,Thursday
+2024-08-16,Front Desk,5,Friday
+2024-08-16,Housekeeping,4,Friday
+2024-08-16,Kitchen,3,Friday
+2024-08-16,Security,4,Friday
+2024-08-16,Maintenance,4,Friday
+2024-08-17,Front Desk,6,Saturday
+2024-08-17,Housekeeping,5,Saturday
+2024-08-17,Kitchen,6,Saturday
+2024-08-17,Security,5,Saturday
+2024-08-17,Maintenance,6,Saturday
+2024-08-18,Front Desk,7,Sunday
+2024-08-18,Housekeeping,7,Sunday
+2024-08-18,Kitchen,5,Sunday
+2024-08-18,Security,7,Sunday
+2024-08-18,Maintenance,7,Sunday
+2024-08-19,Front Desk,4,Monday
+2024-08-19,Housekeeping,3,Monday
+2024-08-19,Kitchen,4,Monday
+2024-08-19,Security,4,Monday
+2024-08-19,Maintenance,4,Monday
+2024-08-20,Front Desk,4,Tuesday
+2024-08-20,Housekeeping,4,Tuesday
+2024-08-20,Kitchen,4,Tuesday
+2024-08-20,Security,4,Tuesday
+2024-08-20,Maintenance,3,Tuesday
+2024-08-21,Front Desk,5,Wednesday
+2024-08-21,Housekeeping,4,Wednesday
+2024-08-21,Kitchen,4,Wednesday
+2024-08-21,Security,4,Wednesday
+2024-08-21,Maintenance,4,Wednesday
+2024-08-22,Front Desk,4,Thursday
+2024-08-22,Housekeeping,4,Thursday
+2024-08-22,Kitchen,5,Thursday
+2024-08-22,Security,5,Thursday
+2024-08-22,Maintenance,4,Thursday
+2024-08-23,Front Desk,5,Friday
+2024-08-23,Housekeeping,3,Friday
+2024-08-23,Kitchen,4,Friday
+2024-08-23,Security,3,Friday
+2024-08-23,Maintenance,3,Friday
+2024-08-24,Front Desk,6,Saturday
+2024-08-24,Housekeeping,7,Saturday
+2024-08-24,Kitchen,5,Saturday
+2024-08-24,Security,6,Saturday
+2024-08-24,Maintenance,5,Saturday
+2024-08-25,Front Desk,5,Sunday
+2024-08-25,Housekeeping,5,Sunday
+2024-08-25,Kitchen,5,Sunday
+2024-08-25,Security,7,Sunday
+2024-08-25,Maintenance,5,Sunday
+2024-08-26,Front Desk,3,Monday
+2024-08-26,Housekeeping,3,Monday
+2024-08-26,Kitchen,5,Monday
+2024-08-26,Security,3,Monday
+2024-08-26,Maintenance,3,Monday
+2024-08-27,Front Desk,5,Tuesday
+2024-08-27,Housekeeping,5,Tuesday
+2024-08-27,Kitchen,5,Tuesday
+2024-08-27,Security,3,Tuesday
+2024-08-27,Maintenance,5,Tuesday
+2024-08-28,Front Desk,5,Wednesday
+2024-08-28,Housekeeping,3,Wednesday
+2024-08-28,Kitchen,5,Wednesday
+2024-08-28,Security,3,Wednesday
+2024-08-28,Maintenance,4,Wednesday
+2024-08-29,Front Desk,5,Thursday
+2024-08-29,Housekeeping,4,Thursday
+2024-08-29,Kitchen,3,Thursday
+2024-08-29,Security,5,Thursday
+2024-08-29,Maintenance,3,Thursday
+2024-08-30,Front Desk,4,Friday
+2024-08-30,Housekeeping,3,Friday
+2024-08-30,Kitchen,5,Friday
+2024-08-30,Security,5,Friday
+2024-08-30,Maintenance,4,Friday
+2024-08-31,Front Desk,5,Saturday
+2024-08-31,Housekeeping,7,Saturday
+2024-08-31,Kitchen,6,Saturday
+2024-08-31,Security,7,Saturday
+2024-08-31,Maintenance,7,Saturday
+2024-09-01,Front Desk,5,Sunday
+2024-09-01,Housekeeping,7,Sunday
+2024-09-01,Kitchen,5,Sunday
+2024-09-01,Security,7,Sunday
+2024-09-01,Maintenance,6,Sunday
+2024-09-02,Front Desk,5,Monday
+2024-09-02,Housekeeping,3,Monday
+2024-09-02,Kitchen,3,Monday
+2024-09-02,Security,4,Monday
+2024-09-02,Maintenance,5,Monday
+2024-09-03,Front Desk,5,Tuesday
+2024-09-03,Housekeeping,4,Tuesday
+2024-09-03,Kitchen,5,Tuesday
+2024-09-03,Security,5,Tuesday
+2024-09-03,Maintenance,3,Tuesday
+2024-09-04,Front Desk,5,Wednesday
+2024-09-04,Housekeeping,5,Wednesday
+2024-09-04,Kitchen,4,Wednesday
+2024-09-04,Security,4,Wednesday
+2024-09-04,Maintenance,3,Wednesday
+2024-09-05,Front Desk,5,Thursday
+2024-09-05,Housekeeping,5,Thursday
+2024-09-05,Kitchen,5,Thursday
+2024-09-05,Security,3,Thursday
+2024-09-05,Maintenance,3,Thursday
+2024-09-06,Front Desk,4,Friday
+2024-09-06,Housekeeping,3,Friday
+2024-09-06,Kitchen,5,Friday
+2024-09-06,Security,5,Friday
+2024-09-06,Maintenance,3,Friday
+2024-09-07,Front Desk,7,Saturday
+2024-09-07,Housekeeping,7,Saturday
+2024-09-07,Kitchen,5,Saturday
+2024-09-07,Security,5,Saturday
+2024-09-07,Maintenance,7,Saturday
+2024-09-08,Front Desk,7,Sunday
+2024-09-08,Housekeeping,7,Sunday
+2024-09-08,Kitchen,6,Sunday
+2024-09-08,Security,6,Sunday
+2024-09-08,Maintenance,6,Sunday
+2024-09-09,Front Desk,3,Monday
+2024-09-09,Housekeeping,4,Monday
+2024-09-09,Kitchen,3,Monday
+2024-09-09,Security,3,Monday
+2024-09-09,Maintenance,4,Monday
+2024-09-10,Front Desk,4,Tuesday
+2024-09-10,Housekeeping,4,Tuesday
+2024-09-10,Kitchen,5,Tuesday
+2024-09-10,Security,4,Tuesday
+2024-09-10,Maintenance,5,Tuesday
+2024-09-11,Front Desk,3,Wednesday
+2024-09-11,Housekeeping,5,Wednesday
+2024-09-11,Kitchen,4,Wednesday
+2024-09-11,Security,3,Wednesday
+2024-09-11,Maintenance,3,Wednesday
+2024-09-12,Front Desk,3,Thursday
+2024-09-12,Housekeeping,5,Thursday
+2024-09-12,Kitchen,4,Thursday
+2024-09-12,Security,3,Thursday
+2024-09-12,Maintenance,3,Thursday
+2024-09-13,Front Desk,3,Friday
+2024-09-13,Housekeeping,5,Friday
+2024-09-13,Kitchen,5,Friday
+2024-09-13,Security,4,Friday
+2024-09-13,Maintenance,5,Friday
+2024-09-14,Front Desk,5,Saturday
+2024-09-14,Housekeeping,6,Saturday
+2024-09-14,Kitchen,5,Saturday
+2024-09-14,Security,5,Saturday
+2024-09-14,Maintenance,7,Saturday
+2024-09-15,Front Desk,6,Sunday
+2024-09-15,Housekeeping,7,Sunday
+2024-09-15,Kitchen,7,Sunday
+2024-09-15,Security,6,Sunday
+2024-09-15,Maintenance,5,Sunday
+2024-09-16,Front Desk,3,Monday
+2024-09-16,Housekeeping,4,Monday
+2024-09-16,Kitchen,3,Monday
+2024-09-16,Security,4,Monday
+2024-09-16,Maintenance,4,Monday
+2024-09-17,Front Desk,5,Tuesday
+2024-09-17,Housekeeping,4,Tuesday
+2024-09-17,Kitchen,5,Tuesday
+2024-09-17,Security,3,Tuesday
+2024-09-17,Maintenance,3,Tuesday
+2024-09-18,Front Desk,3,Wednesday
+2024-09-18,Housekeeping,3,Wednesday
+2024-09-18,Kitchen,5,Wednesday
+2024-09-18,Security,3,Wednesday
+2024-09-18,Maintenance,4,Wednesday
+2024-09-19,Front Desk,4,Thursday
+2024-09-19,Housekeeping,4,Thursday
+2024-09-19,Kitchen,5,Thursday
+2024-09-19,Security,3,Thursday
+2024-09-19,Maintenance,3,Thursday
+2024-09-20,Front Desk,3,Friday
+2024-09-20,Housekeeping,5,Friday
+2024-09-20,Kitchen,4,Friday
+2024-09-20,Security,4,Friday
+2024-09-20,Maintenance,3,Friday
+2024-09-21,Front Desk,6,Saturday
+2024-09-21,Housekeeping,6,Saturday
+2024-09-21,Kitchen,7,Saturday
+2024-09-21,Security,7,Saturday
+2024-09-21,Maintenance,7,Saturday
+2024-09-22,Front Desk,7,Sunday
+2024-09-22,Housekeeping,5,Sunday
+2024-09-22,Kitchen,7,Sunday
+2024-09-22,Security,6,Sunday
+2024-09-22,Maintenance,5,Sunday
+2024-09-23,Front Desk,4,Monday
+2024-09-23,Housekeeping,4,Monday
+2024-09-23,Kitchen,4,Monday
+2024-09-23,Security,5,Monday
+2024-09-23,Maintenance,5,Monday
+2024-09-24,Front Desk,3,Tuesday
+2024-09-24,Housekeeping,3,Tuesday
+2024-09-24,Kitchen,5,Tuesday
+2024-09-24,Security,4,Tuesday
+2024-09-24,Maintenance,3,Tuesday
+2024-09-25,Front Desk,5,Wednesday
+2024-09-25,Housekeeping,5,Wednesday
+2024-09-25,Kitchen,5,Wednesday
+2024-09-25,Security,4,Wednesday
+2024-09-25,Maintenance,5,Wednesday
+2024-09-26,Front Desk,5,Thursday
+2024-09-26,Housekeeping,5,Thursday
+2024-09-26,Kitchen,5,Thursday
+2024-09-26,Security,3,Thursday
+2024-09-26,Maintenance,3,Thursday
+2024-09-27,Front Desk,5,Friday
+2024-09-27,Housekeeping,4,Friday
+2024-09-27,Kitchen,3,Friday
+2024-09-27,Security,5,Friday
+2024-09-27,Maintenance,3,Friday
+2024-09-28,Front Desk,5,Saturday
+2024-09-28,Housekeeping,6,Saturday
+2024-09-28,Kitchen,7,Saturday
+2024-09-28,Security,7,Saturday
+2024-09-28,Maintenance,6,Saturday
+2024-09-29,Front Desk,6,Sunday
+2024-09-29,Housekeeping,7,Sunday
+2024-09-29,Kitchen,7,Sunday
+2024-09-29,Security,6,Sunday
+2024-09-29,Maintenance,5,Sunday
+2024-09-30,Front Desk,3,Monday
+2024-09-30,Housekeeping,4,Monday
+2024-09-30,Kitchen,3,Monday
+2024-09-30,Security,4,Monday
+2024-09-30,Maintenance,3,Monday
+2024-10-01,Front Desk,3,Tuesday
+2024-10-01,Housekeeping,5,Tuesday
+2024-10-01,Kitchen,5,Tuesday
+2024-10-01,Security,3,Tuesday
+2024-10-01,Maintenance,3,Tuesday
+2024-10-02,Front Desk,5,Wednesday
+2024-10-02,Housekeeping,5,Wednesday
+2024-10-02,Kitchen,5,Wednesday
+2024-10-02,Security,4,Wednesday
+2024-10-02,Maintenance,3,Wednesday
+2024-10-03,Front Desk,5,Thursday
+2024-10-03,Housekeeping,3,Thursday
+2024-10-03,Kitchen,4,Thursday
+2024-10-03,Security,4,Thursday
+2024-10-03,Maintenance,5,Thursday
+2024-10-04,Front Desk,4,Friday
+2024-10-04,Housekeeping,3,Friday
+2024-10-04,Kitchen,5,Friday
+2024-10-04,Security,3,Friday
+2024-10-04,Maintenance,3,Friday
+2024-10-05,Front Desk,6,Saturday
+2024-10-05,Housekeeping,6,Saturday
+2024-10-05,Kitchen,6,Saturday
+2024-10-05,Security,6,Saturday
+2024-10-05,Maintenance,6,Saturday
+2024-10-06,Front Desk,7,Sunday
+2024-10-06,Housekeeping,5,Sunday
+2024-10-06,Kitchen,5,Sunday
+2024-10-06,Security,5,Sunday
+2024-10-06,Maintenance,5,Sunday
+2024-10-07,Front Desk,4,Monday
+2024-10-07,Housekeeping,3,Monday
+2024-10-07,Kitchen,5,Monday
+2024-10-07,Security,5,Monday
+2024-10-07,Maintenance,3,Monday
+2024-10-08,Front Desk,3,Tuesday
+2024-10-08,Housekeeping,5,Tuesday
+2024-10-08,Kitchen,5,Tuesday
+2024-10-08,Security,4,Tuesday
+2024-10-08,Maintenance,5,Tuesday
+2024-10-09,Front Desk,4,Wednesday
+2024-10-09,Housekeeping,4,Wednesday
+2024-10-09,Kitchen,4,Wednesday
+2024-10-09,Security,4,Wednesday
+2024-10-09,Maintenance,4,Wednesday
+2024-10-10,Front Desk,3,Thursday
+2024-10-10,Housekeeping,5,Thursday
+2024-10-10,Kitchen,4,Thursday
+2024-10-10,Security,5,Thursday
+2024-10-10,Maintenance,5,Thursday
+2024-10-11,Front Desk,4,Friday
+2024-10-11,Housekeeping,3,Friday
+2024-10-11,Kitchen,4,Friday
+2024-10-11,Security,3,Friday
+2024-10-11,Maintenance,5,Friday
+2024-10-12,Front Desk,5,Saturday
+2024-10-12,Housekeeping,5,Saturday
+2024-10-12,Kitchen,5,Saturday
+2024-10-12,Security,7,Saturday
+2024-10-12,Maintenance,7,Saturday
+2024-10-13,Front Desk,5,Sunday
+2024-10-13,Housekeeping,5,Sunday
+2024-10-13,Kitchen,6,Sunday
+2024-10-13,Security,5,Sunday
+2024-10-13,Maintenance,6,Sunday
+2024-10-14,Front Desk,3,Monday
+2024-10-14,Housekeeping,4,Monday
+2024-10-14,Kitchen,5,Monday
+2024-10-14,Security,3,Monday
+2024-10-14,Maintenance,3,Monday
+2024-10-15,Front Desk,3,Tuesday
+2024-10-15,Housekeeping,3,Tuesday
+2024-10-15,Kitchen,4,Tuesday
+2024-10-15,Security,3,Tuesday
+2024-10-15,Maintenance,5,Tuesday
+2024-10-16,Front Desk,5,Wednesday
+2024-10-16,Housekeeping,3,Wednesday
+2024-10-16,Kitchen,5,Wednesday
+2024-10-16,Security,3,Wednesday
+2024-10-16,Maintenance,3,Wednesday
+2024-10-17,Front Desk,5,Thursday
+2024-10-17,Housekeeping,3,Thursday
+2024-10-17,Kitchen,5,Thursday
+2024-10-17,Security,4,Thursday
+2024-10-17,Maintenance,3,Thursday
+2024-10-18,Front Desk,4,Friday
+2024-10-18,Housekeeping,5,Friday
+2024-10-18,Kitchen,4,Friday
+2024-10-18,Security,4,Friday
+2024-10-18,Maintenance,5,Friday
+2024-10-19,Front Desk,6,Saturday
+2024-10-19,Housekeeping,6,Saturday
+2024-10-19,Kitchen,7,Saturday
+2024-10-19,Security,6,Saturday
+2024-10-19,Maintenance,7,Saturday
+2024-10-20,Front Desk,6,Sunday
+2024-10-20,Housekeeping,7,Sunday
+2024-10-20,Kitchen,7,Sunday
+2024-10-20,Security,6,Sunday
+2024-10-20,Maintenance,6,Sunday
+2024-10-21,Front Desk,4,Monday
+2024-10-21,Housekeeping,3,Monday
+2024-10-21,Kitchen,3,Monday
+2024-10-21,Security,3,Monday
+2024-10-21,Maintenance,5,Monday
+2024-10-22,Front Desk,4,Tuesday
+2024-10-22,Housekeeping,5,Tuesday
+2024-10-22,Kitchen,3,Tuesday
+2024-10-22,Security,4,Tuesday
+2024-10-22,Maintenance,5,Tuesday
+2024-10-23,Front Desk,4,Wednesday
+2024-10-23,Housekeeping,5,Wednesday
+2024-10-23,Kitchen,4,Wednesday
+2024-10-23,Security,3,Wednesday
+2024-10-23,Maintenance,3,Wednesday
+2024-10-24,Front Desk,4,Thursday
+2024-10-24,Housekeeping,5,Thursday
+2024-10-24,Kitchen,3,Thursday
+2024-10-24,Security,3,Thursday
+2024-10-24,Maintenance,3,Thursday
+2024-10-25,Front Desk,4,Friday
+2024-10-25,Housekeeping,4,Friday
+2024-10-25,Kitchen,5,Friday
+2024-10-25,Security,5,Friday
+2024-10-25,Maintenance,5,Friday
+2024-10-26,Front Desk,6,Saturday
+2024-10-26,Housekeeping,6,Saturday
+2024-10-26,Kitchen,7,Saturday
+2024-10-26,Security,7,Saturday
+2024-10-26,Maintenance,6,Saturday
+2024-10-27,Front Desk,7,Sunday
+2024-10-27,Housekeeping,5,Sunday
+2024-10-27,Kitchen,6,Sunday
+2024-10-27,Security,7,Sunday
+2024-10-27,Maintenance,6,Sunday
+2024-10-28,Front Desk,3,Monday
+2024-10-28,Housekeeping,4,Monday
+2024-10-28,Kitchen,4,Monday
+2024-10-28,Security,4,Monday
+2024-10-28,Maintenance,4,Monday
+2024-10-29,Front Desk,3,Tuesday
+2024-10-29,Housekeeping,4,Tuesday
+2024-10-29,Kitchen,4,Tuesday
+2024-10-29,Security,5,Tuesday
+2024-10-29,Maintenance,4,Tuesday
+2024-10-30,Front Desk,5,Wednesday
+2024-10-30,Housekeeping,3,Wednesday
+2024-10-30,Kitchen,3,Wednesday
+2024-10-30,Security,3,Wednesday
+2024-10-30,Maintenance,3,Wednesday
+2024-10-31,Front Desk,5,Thursday
+2024-10-31,Housekeeping,4,Thursday
+2024-10-31,Kitchen,3,Thursday
+2024-10-31,Security,4,Thursday
+2024-10-31,Maintenance,5,Thursday
+2024-11-01,Front Desk,5,Friday
+2024-11-01,Housekeeping,5,Friday
+2024-11-01,Kitchen,3,Friday
+2024-11-01,Security,4,Friday
+2024-11-01,Maintenance,4,Friday
+2024-11-02,Front Desk,6,Saturday
+2024-11-02,Housekeeping,7,Saturday
+2024-11-02,Kitchen,5,Saturday
+2024-11-02,Security,7,Saturday
+2024-11-02,Maintenance,7,Saturday
+2024-11-03,Front Desk,6,Sunday
+2024-11-03,Housekeeping,7,Sunday
+2024-11-03,Kitchen,6,Sunday
+2024-11-03,Security,5,Sunday
+2024-11-03,Maintenance,6,Sunday
+2024-11-04,Front Desk,3,Monday
+2024-11-04,Housekeeping,4,Monday
+2024-11-04,Kitchen,5,Monday
+2024-11-04,Security,5,Monday
+2024-11-04,Maintenance,3,Monday
+2024-11-05,Front Desk,3,Tuesday
+2024-11-05,Housekeeping,3,Tuesday
+2024-11-05,Kitchen,4,Tuesday
+2024-11-05,Security,4,Tuesday
+2024-11-05,Maintenance,3,Tuesday
+2024-11-06,Front Desk,5,Wednesday
+2024-11-06,Housekeeping,4,Wednesday
+2024-11-06,Kitchen,4,Wednesday
+2024-11-06,Security,4,Wednesday
+2024-11-06,Maintenance,3,Wednesday
+2024-11-07,Front Desk,3,Thursday
+2024-11-07,Housekeeping,3,Thursday
+2024-11-07,Kitchen,3,Thursday
+2024-11-07,Security,3,Thursday
+2024-11-07,Maintenance,5,Thursday
+2024-11-08,Front Desk,5,Friday
+2024-11-08,Housekeeping,3,Friday
+2024-11-08,Kitchen,4,Friday
+2024-11-08,Security,3,Friday
+2024-11-08,Maintenance,5,Friday
+2024-11-09,Front Desk,7,Saturday
+2024-11-09,Housekeeping,6,Saturday
+2024-11-09,Kitchen,7,Saturday
+2024-11-09,Security,5,Saturday
+2024-11-09,Maintenance,6,Saturday
+2024-11-10,Front Desk,5,Sunday
+2024-11-10,Housekeeping,5,Sunday
+2024-11-10,Kitchen,6,Sunday
+2024-11-10,Security,5,Sunday
+2024-11-10,Maintenance,7,Sunday
+2024-11-11,Front Desk,3,Monday
+2024-11-11,Housekeeping,4,Monday
+2024-11-11,Kitchen,4,Monday
+2024-11-11,Security,4,Monday
+2024-11-11,Maintenance,3,Monday
+2024-11-12,Front Desk,4,Tuesday
+2024-11-12,Housekeeping,4,Tuesday
+2024-11-12,Kitchen,3,Tuesday
+2024-11-12,Security,5,Tuesday
+2024-11-12,Maintenance,3,Tuesday
+2024-11-13,Front Desk,4,Wednesday
+2024-11-13,Housekeeping,4,Wednesday
+2024-11-13,Kitchen,3,Wednesday
+2024-11-13,Security,5,Wednesday
+2024-11-13,Maintenance,4,Wednesday
+2024-11-14,Front Desk,4,Thursday
+2024-11-14,Housekeeping,4,Thursday
+2024-11-14,Kitchen,3,Thursday
+2024-11-14,Security,4,Thursday
+2024-11-14,Maintenance,5,Thursday
+2024-11-15,Front Desk,4,Friday
+2024-11-15,Housekeeping,4,Friday
+2024-11-15,Kitchen,5,Friday
+2024-11-15,Security,4,Friday
+2024-11-15,Maintenance,3,Friday
+2024-11-16,Front Desk,5,Saturday
+2024-11-16,Housekeeping,5,Saturday
+2024-11-16,Kitchen,7,Saturday
+2024-11-16,Security,6,Saturday
+2024-11-16,Maintenance,5,Saturday
+2024-11-17,Front Desk,7,Sunday
+2024-11-17,Housekeeping,6,Sunday
+2024-11-17,Kitchen,7,Sunday
+2024-11-17,Security,5,Sunday
+2024-11-17,Maintenance,5,Sunday
+2024-11-18,Front Desk,3,Monday
+2024-11-18,Housekeeping,5,Monday
+2024-11-18,Kitchen,5,Monday
+2024-11-18,Security,3,Monday
+2024-11-18,Maintenance,5,Monday
+2024-11-19,Front Desk,3,Tuesday
+2024-11-19,Housekeeping,3,Tuesday
+2024-11-19,Kitchen,4,Tuesday
+2024-11-19,Security,5,Tuesday
+2024-11-19,Maintenance,3,Tuesday
+2024-11-20,Front Desk,3,Wednesday
+2024-11-20,Housekeeping,5,Wednesday
+2024-11-20,Kitchen,4,Wednesday
+2024-11-20,Security,4,Wednesday
+2024-11-20,Maintenance,3,Wednesday
+2024-11-21,Front Desk,5,Thursday
+2024-11-21,Housekeeping,4,Thursday
+2024-11-21,Kitchen,5,Thursday
+2024-11-21,Security,5,Thursday
+2024-11-21,Maintenance,3,Thursday
+2024-11-22,Front Desk,4,Friday
+2024-11-22,Housekeeping,3,Friday
+2024-11-22,Kitchen,4,Friday
+2024-11-22,Security,4,Friday
+2024-11-22,Maintenance,4,Friday
+2024-11-23,Front Desk,6,Saturday
+2024-11-23,Housekeeping,6,Saturday
+2024-11-23,Kitchen,7,Saturday
+2024-11-23,Security,5,Saturday
+2024-11-23,Maintenance,7,Saturday
+2024-11-24,Front Desk,6,Sunday
+2024-11-24,Housekeeping,5,Sunday
+2024-11-24,Kitchen,6,Sunday
+2024-11-24,Security,5,Sunday
+2024-11-24,Maintenance,7,Sunday
+2024-11-25,Front Desk,3,Monday
+2024-11-25,Housekeeping,3,Monday
+2024-11-25,Kitchen,3,Monday
+2024-11-25,Security,3,Monday
+2024-11-25,Maintenance,3,Monday
+2024-11-26,Front Desk,4,Tuesday
+2024-11-26,Housekeeping,3,Tuesday
+2024-11-26,Kitchen,3,Tuesday
+2024-11-26,Security,5,Tuesday
+2024-11-26,Maintenance,3,Tuesday
+2024-11-27,Front Desk,5,Wednesday
+2024-11-27,Housekeeping,4,Wednesday
+2024-11-27,Kitchen,3,Wednesday
+2024-11-27,Security,5,Wednesday
+2024-11-27,Maintenance,5,Wednesday
+2024-11-28,Front Desk,4,Thursday
+2024-11-28,Housekeeping,3,Thursday
+2024-11-28,Kitchen,3,Thursday
+2024-11-28,Security,5,Thursday
+2024-11-28,Maintenance,3,Thursday
+2024-11-29,Front Desk,5,Friday
+2024-11-29,Housekeeping,3,Friday
+2024-11-29,Kitchen,5,Friday
+2024-11-29,Security,3,Friday
+2024-11-29,Maintenance,4,Friday
+2024-11-30,Front Desk,5,Saturday
+2024-11-30,Housekeeping,5,Saturday
+2024-11-30,Kitchen,6,Saturday
+2024-11-30,Security,5,Saturday
+2024-11-30,Maintenance,6,Saturday
+2024-12-01,Front Desk,5,Sunday
+2024-12-01,Housekeeping,7,Sunday
+2024-12-01,Kitchen,7,Sunday
+2024-12-01,Security,5,Sunday
+2024-12-01,Maintenance,5,Sunday
+2024-12-02,Front Desk,3,Monday
+2024-12-02,Housekeeping,5,Monday
+2024-12-02,Kitchen,3,Monday
+2024-12-02,Security,5,Monday
+2024-12-02,Maintenance,4,Monday
+2024-12-03,Front Desk,5,Tuesday
+2024-12-03,Housekeeping,5,Tuesday
+2024-12-03,Kitchen,4,Tuesday
+2024-12-03,Security,5,Tuesday
+2024-12-03,Maintenance,3,Tuesday
+2024-12-04,Front Desk,3,Wednesday
+2024-12-04,Housekeeping,5,Wednesday
+2024-12-04,Kitchen,3,Wednesday
+2024-12-04,Security,5,Wednesday
+2024-12-04,Maintenance,3,Wednesday
+2024-12-05,Front Desk,3,Thursday
+2024-12-05,Housekeeping,5,Thursday
+2024-12-05,Kitchen,3,Thursday
+2024-12-05,Security,5,Thursday
+2024-12-05,Maintenance,3,Thursday
+2024-12-06,Front Desk,3,Friday
+2024-12-06,Housekeeping,4,Friday
+2024-12-06,Kitchen,4,Friday
+2024-12-06,Security,5,Friday
+2024-12-06,Maintenance,4,Friday
+2024-12-07,Front Desk,7,Saturday
+2024-12-07,Housekeeping,6,Saturday
+2024-12-07,Kitchen,5,Saturday
+2024-12-07,Security,7,Saturday
+2024-12-07,Maintenance,7,Saturday
+2024-12-08,Front Desk,5,Sunday
+2024-12-08,Housekeeping,7,Sunday
+2024-12-08,Kitchen,7,Sunday
+2024-12-08,Security,6,Sunday
+2024-12-08,Maintenance,7,Sunday
+2024-12-09,Front Desk,3,Monday
+2024-12-09,Housekeeping,4,Monday
+2024-12-09,Kitchen,4,Monday
+2024-12-09,Security,3,Monday
+2024-12-09,Maintenance,3,Monday
+2024-12-10,Front Desk,4,Tuesday
+2024-12-10,Housekeeping,5,Tuesday
+2024-12-10,Kitchen,4,Tuesday
+2024-12-10,Security,3,Tuesday
+2024-12-10,Maintenance,4,Tuesday
+2024-12-11,Front Desk,3,Wednesday
+2024-12-11,Housekeeping,4,Wednesday
+2024-12-11,Kitchen,5,Wednesday
+2024-12-11,Security,4,Wednesday
+2024-12-11,Maintenance,4,Wednesday
+2024-12-12,Front Desk,3,Thursday
+2024-12-12,Housekeeping,3,Thursday
+2024-12-12,Kitchen,3,Thursday
+2024-12-12,Security,4,Thursday
+2024-12-12,Maintenance,5,Thursday
+2024-12-13,Front Desk,3,Friday
+2024-12-13,Housekeeping,3,Friday
+2024-12-13,Kitchen,4,Friday
+2024-12-13,Security,3,Friday
+2024-12-13,Maintenance,5,Friday
+2024-12-14,Front Desk,7,Saturday
+2024-12-14,Housekeeping,5,Saturday
+2024-12-14,Kitchen,5,Saturday
+2024-12-14,Security,6,Saturday
+2024-12-14,Maintenance,7,Saturday
+2024-12-15,Front Desk,7,Sunday
+2024-12-15,Housekeeping,5,Sunday
+2024-12-15,Kitchen,6,Sunday
+2024-12-15,Security,7,Sunday
+2024-12-15,Maintenance,7,Sunday
+2024-12-16,Front Desk,4,Monday
+2024-12-16,Housekeeping,4,Monday
+2024-12-16,Kitchen,5,Monday
+2024-12-16,Security,5,Monday
+2024-12-16,Maintenance,4,Monday
+2024-12-17,Front Desk,5,Tuesday
+2024-12-17,Housekeeping,3,Tuesday
+2024-12-17,Kitchen,3,Tuesday
+2024-12-17,Security,4,Tuesday
+2024-12-17,Maintenance,4,Tuesday
+2024-12-18,Front Desk,4,Wednesday
+2024-12-18,Housekeeping,3,Wednesday
+2024-12-18,Kitchen,5,Wednesday
+2024-12-18,Security,3,Wednesday
+2024-12-18,Maintenance,5,Wednesday
+2024-12-19,Front Desk,3,Thursday
+2024-12-19,Housekeeping,5,Thursday
+2024-12-19,Kitchen,3,Thursday
+2024-12-19,Security,4,Thursday
+2024-12-19,Maintenance,3,Thursday
+2024-12-20,Front Desk,5,Friday
+2024-12-20,Housekeeping,3,Friday
+2024-12-20,Kitchen,3,Friday
+2024-12-20,Security,3,Friday
+2024-12-20,Maintenance,4,Friday
+2024-12-21,Front Desk,5,Saturday
+2024-12-21,Housekeeping,6,Saturday
+2024-12-21,Kitchen,6,Saturday
+2024-12-21,Security,5,Saturday
+2024-12-21,Maintenance,5,Saturday
+2024-12-22,Front Desk,5,Sunday
+2024-12-22,Housekeeping,7,Sunday
+2024-12-22,Kitchen,5,Sunday
+2024-12-22,Security,6,Sunday
+2024-12-22,Maintenance,5,Sunday
+2024-12-23,Front Desk,5,Monday
+2024-12-23,Housekeeping,3,Monday
+2024-12-23,Kitchen,5,Monday
+2024-12-23,Security,5,Monday
+2024-12-23,Maintenance,3,Monday
+2024-12-24,Front Desk,4,Tuesday
+2024-12-24,Housekeeping,5,Tuesday
+2024-12-24,Kitchen,3,Tuesday
+2024-12-24,Security,3,Tuesday
+2024-12-24,Maintenance,4,Tuesday
+2024-12-25,Front Desk,5,Wednesday
+2024-12-25,Housekeeping,5,Wednesday
+2024-12-25,Kitchen,3,Wednesday
+2024-12-25,Security,3,Wednesday
+2024-12-25,Maintenance,4,Wednesday
+2024-12-26,Front Desk,4,Thursday
+2024-12-26,Housekeeping,5,Thursday
+2024-12-26,Kitchen,5,Thursday
+2024-12-26,Security,3,Thursday
+2024-12-26,Maintenance,5,Thursday
+2024-12-27,Front Desk,4,Friday
+2024-12-27,Housekeeping,4,Friday
+2024-12-27,Kitchen,3,Friday
+2024-12-27,Security,4,Friday
+2024-12-27,Maintenance,4,Friday
+2024-12-28,Front Desk,6,Saturday
+2024-12-28,Housekeeping,6,Saturday
+2024-12-28,Kitchen,5,Saturday
+2024-12-28,Security,5,Saturday
+2024-12-28,Maintenance,7,Saturday
+2024-12-29,Front Desk,6,Sunday
+2024-12-29,Housekeeping,7,Sunday
+2024-12-29,Kitchen,5,Sunday
+2024-12-29,Security,5,Sunday
+2024-12-29,Maintenance,5,Sunday
+2024-12-30,Front Desk,3,Monday
+2024-12-30,Housekeeping,3,Monday
+2024-12-30,Kitchen,3,Monday
+2024-12-30,Security,3,Monday
+2024-12-30,Maintenance,4,Monday
+2024-12-31,Front Desk,5,Tuesday
+2024-12-31,Housekeeping,3,Tuesday
+2024-12-31,Kitchen,4,Tuesday
+2024-12-31,Security,4,Tuesday
+2024-12-31,Maintenance,5,Tuesday
+2025-01-01,Front Desk,3,Wednesday
+2025-01-01,Housekeeping,5,Wednesday
+2025-01-01,Kitchen,3,Wednesday
+2025-01-01,Security,4,Wednesday
+2025-01-01,Maintenance,4,Wednesday
+2025-01-02,Front Desk,4,Thursday
+2025-01-02,Housekeeping,4,Thursday
+2025-01-02,Kitchen,5,Thursday
+2025-01-02,Security,3,Thursday
+2025-01-02,Maintenance,3,Thursday
+2025-01-03,Front Desk,5,Friday
+2025-01-03,Housekeeping,3,Friday
+2025-01-03,Kitchen,4,Friday
+2025-01-03,Security,3,Friday
+2025-01-03,Maintenance,4,Friday
+2025-01-04,Front Desk,7,Saturday
+2025-01-04,Housekeeping,5,Saturday
+2025-01-04,Kitchen,7,Saturday
+2025-01-04,Security,5,Saturday
+2025-01-04,Maintenance,6,Saturday
+2025-01-05,Front Desk,7,Sunday
+2025-01-05,Housekeeping,5,Sunday
+2025-01-05,Kitchen,6,Sunday
+2025-01-05,Security,7,Sunday
+2025-01-05,Maintenance,7,Sunday
+2025-01-06,Front Desk,3,Monday
+2025-01-06,Housekeeping,3,Monday
+2025-01-06,Kitchen,3,Monday
+2025-01-06,Security,4,Monday
+2025-01-06,Maintenance,3,Monday
+2025-01-07,Front Desk,5,Tuesday
+2025-01-07,Housekeeping,5,Tuesday
+2025-01-07,Kitchen,3,Tuesday
+2025-01-07,Security,3,Tuesday
+2025-01-07,Maintenance,5,Tuesday
+2025-01-08,Front Desk,4,Wednesday
+2025-01-08,Housekeeping,3,Wednesday
+2025-01-08,Kitchen,3,Wednesday
+2025-01-08,Security,5,Wednesday
+2025-01-08,Maintenance,3,Wednesday
+2025-01-09,Front Desk,4,Thursday
+2025-01-09,Housekeeping,5,Thursday
+2025-01-09,Kitchen,3,Thursday
+2025-01-09,Security,5,Thursday
+2025-01-09,Maintenance,3,Thursday
+2025-01-10,Front Desk,3,Friday
+2025-01-10,Housekeeping,3,Friday
+2025-01-10,Kitchen,4,Friday
+2025-01-10,Security,4,Friday
+2025-01-10,Maintenance,5,Friday
+2025-01-11,Front Desk,5,Saturday
+2025-01-11,Housekeeping,5,Saturday
+2025-01-11,Kitchen,6,Saturday
+2025-01-11,Security,5,Saturday
+2025-01-11,Maintenance,6,Saturday
+2025-01-12,Front Desk,5,Sunday
+2025-01-12,Housekeeping,7,Sunday
+2025-01-12,Kitchen,5,Sunday
+2025-01-12,Security,5,Sunday
+2025-01-12,Maintenance,6,Sunday
+2025-01-13,Front Desk,3,Monday
+2025-01-13,Housekeeping,3,Monday
+2025-01-13,Kitchen,4,Monday
+2025-01-13,Security,5,Monday
+2025-01-13,Maintenance,5,Monday
+2025-01-14,Front Desk,4,Tuesday
+2025-01-14,Housekeeping,4,Tuesday
+2025-01-14,Kitchen,4,Tuesday
+2025-01-14,Security,4,Tuesday
+2025-01-14,Maintenance,4,Tuesday
+2025-01-15,Front Desk,5,Wednesday
+2025-01-15,Housekeeping,5,Wednesday
+2025-01-15,Kitchen,4,Wednesday
+2025-01-15,Security,3,Wednesday
+2025-01-15,Maintenance,4,Wednesday
+2025-01-16,Front Desk,3,Thursday
+2025-01-16,Housekeeping,4,Thursday
+2025-01-16,Kitchen,4,Thursday
+2025-01-16,Security,5,Thursday
+2025-01-16,Maintenance,3,Thursday
+2025-01-17,Front Desk,3,Friday
+2025-01-17,Housekeeping,5,Friday
+2025-01-17,Kitchen,5,Friday
+2025-01-17,Security,5,Friday
+2025-01-17,Maintenance,5,Friday
+2025-01-18,Front Desk,5,Saturday
+2025-01-18,Housekeeping,5,Saturday
+2025-01-18,Kitchen,6,Saturday
+2025-01-18,Security,6,Saturday
+2025-01-18,Maintenance,7,Saturday
+2025-01-19,Front Desk,7,Sunday
+2025-01-19,Housekeeping,7,Sunday
+2025-01-19,Kitchen,6,Sunday
+2025-01-19,Security,6,Sunday
+2025-01-19,Maintenance,6,Sunday
+2025-01-20,Front Desk,4,Monday
+2025-01-20,Housekeeping,4,Monday
+2025-01-20,Kitchen,4,Monday
+2025-01-20,Security,4,Monday
+2025-01-20,Maintenance,5,Monday
+2025-01-21,Front Desk,5,Tuesday
+2025-01-21,Housekeeping,5,Tuesday
+2025-01-21,Kitchen,5,Tuesday
+2025-01-21,Security,4,Tuesday
+2025-01-21,Maintenance,3,Tuesday
+2025-01-22,Front Desk,4,Wednesday
+2025-01-22,Housekeeping,3,Wednesday
+2025-01-22,Kitchen,5,Wednesday
+2025-01-22,Security,4,Wednesday
+2025-01-22,Maintenance,5,Wednesday
+2025-01-23,Front Desk,4,Thursday
+2025-01-23,Housekeeping,5,Thursday
+2025-01-23,Kitchen,3,Thursday
+2025-01-23,Security,3,Thursday
+2025-01-23,Maintenance,3,Thursday
+2025-01-24,Front Desk,4,Friday
+2025-01-24,Housekeeping,3,Friday
+2025-01-24,Kitchen,4,Friday
+2025-01-24,Security,3,Friday
+2025-01-24,Maintenance,3,Friday
+2025-01-25,Front Desk,6,Saturday
+2025-01-25,Housekeeping,6,Saturday
+2025-01-25,Kitchen,5,Saturday
+2025-01-25,Security,6,Saturday
+2025-01-25,Maintenance,5,Saturday
+2025-01-26,Front Desk,6,Sunday
+2025-01-26,Housekeeping,7,Sunday
+2025-01-26,Kitchen,7,Sunday
+2025-01-26,Security,7,Sunday
+2025-01-26,Maintenance,7,Sunday
+2025-01-27,Front Desk,5,Monday
+2025-01-27,Housekeeping,3,Monday
+2025-01-27,Kitchen,5,Monday
+2025-01-27,Security,5,Monday
+2025-01-27,Maintenance,5,Monday
+2025-01-28,Front Desk,5,Tuesday
+2025-01-28,Housekeeping,4,Tuesday
+2025-01-28,Kitchen,3,Tuesday
+2025-01-28,Security,5,Tuesday
+2025-01-28,Maintenance,5,Tuesday
+2025-01-29,Front Desk,5,Wednesday
+2025-01-29,Housekeeping,3,Wednesday
+2025-01-29,Kitchen,4,Wednesday
+2025-01-29,Security,3,Wednesday
+2025-01-29,Maintenance,4,Wednesday
+2025-01-30,Front Desk,5,Thursday
+2025-01-30,Housekeeping,5,Thursday
+2025-01-30,Kitchen,3,Thursday
+2025-01-30,Security,3,Thursday
+2025-01-30,Maintenance,4,Thursday
+2025-01-31,Front Desk,4,Friday
+2025-01-31,Housekeeping,3,Friday
+2025-01-31,Kitchen,4,Friday
+2025-01-31,Security,3,Friday
+2025-01-31,Maintenance,4,Friday
+2025-02-01,Front Desk,5,Saturday
+2025-02-01,Housekeeping,5,Saturday
+2025-02-01,Kitchen,5,Saturday
+2025-02-01,Security,6,Saturday
+2025-02-01,Maintenance,6,Saturday
+2025-02-02,Front Desk,6,Sunday
+2025-02-02,Housekeeping,5,Sunday
+2025-02-02,Kitchen,6,Sunday
+2025-02-02,Security,6,Sunday
+2025-02-02,Maintenance,5,Sunday
+2025-02-03,Front Desk,5,Monday
+2025-02-03,Housekeeping,3,Monday
+2025-02-03,Kitchen,4,Monday
+2025-02-03,Security,3,Monday
+2025-02-03,Maintenance,5,Monday
+2025-02-04,Front Desk,3,Tuesday
+2025-02-04,Housekeeping,4,Tuesday
+2025-02-04,Kitchen,5,Tuesday
+2025-02-04,Security,4,Tuesday
+2025-02-04,Maintenance,5,Tuesday
+2025-02-05,Front Desk,5,Wednesday
+2025-02-05,Housekeeping,3,Wednesday
+2025-02-05,Kitchen,3,Wednesday
+2025-02-05,Security,4,Wednesday
+2025-02-05,Maintenance,3,Wednesday
+2025-02-06,Front Desk,3,Thursday
+2025-02-06,Housekeeping,5,Thursday
+2025-02-06,Kitchen,3,Thursday
+2025-02-06,Security,5,Thursday
+2025-02-06,Maintenance,5,Thursday
+2025-02-07,Front Desk,5,Friday
+2025-02-07,Housekeeping,4,Friday
+2025-02-07,Kitchen,4,Friday
+2025-02-07,Security,4,Friday
+2025-02-07,Maintenance,5,Friday
+2025-02-08,Front Desk,6,Saturday
+2025-02-08,Housekeeping,6,Saturday
+2025-02-08,Kitchen,5,Saturday
+2025-02-08,Security,6,Saturday
+2025-02-08,Maintenance,6,Saturday
+2025-02-09,Front Desk,7,Sunday
+2025-02-09,Housekeeping,7,Sunday
+2025-02-09,Kitchen,7,Sunday
+2025-02-09,Security,7,Sunday
+2025-02-09,Maintenance,7,Sunday
+2025-02-10,Front Desk,5,Monday
+2025-02-10,Housekeeping,4,Monday
+2025-02-10,Kitchen,5,Monday
+2025-02-10,Security,5,Monday
+2025-02-10,Maintenance,3,Monday
+2025-02-11,Front Desk,4,Tuesday
+2025-02-11,Housekeeping,4,Tuesday
+2025-02-11,Kitchen,4,Tuesday
+2025-02-11,Security,5,Tuesday
+2025-02-11,Maintenance,5,Tuesday
+2025-02-12,Front Desk,5,Wednesday
+2025-02-12,Housekeeping,3,Wednesday
+2025-02-12,Kitchen,5,Wednesday
+2025-02-12,Security,3,Wednesday
+2025-02-12,Maintenance,4,Wednesday
+2025-02-13,Front Desk,5,Thursday
+2025-02-13,Housekeeping,3,Thursday
+2025-02-13,Kitchen,3,Thursday
+2025-02-13,Security,5,Thursday
+2025-02-13,Maintenance,4,Thursday
+2025-02-14,Front Desk,4,Friday
+2025-02-14,Housekeeping,4,Friday
+2025-02-14,Kitchen,3,Friday
+2025-02-14,Security,3,Friday
+2025-02-14,Maintenance,3,Friday
+2025-02-15,Front Desk,5,Saturday
+2025-02-15,Housekeeping,6,Saturday
+2025-02-15,Kitchen,7,Saturday
+2025-02-15,Security,5,Saturday
+2025-02-15,Maintenance,5,Saturday
+2025-02-16,Front Desk,6,Sunday
+2025-02-16,Housekeeping,7,Sunday
+2025-02-16,Kitchen,7,Sunday
+2025-02-16,Security,6,Sunday
+2025-02-16,Maintenance,6,Sunday
+2025-02-17,Front Desk,5,Monday
+2025-02-17,Housekeeping,3,Monday
+2025-02-17,Kitchen,5,Monday
+2025-02-17,Security,4,Monday
+2025-02-17,Maintenance,3,Monday
+2025-02-18,Front Desk,3,Tuesday
+2025-02-18,Housekeeping,4,Tuesday
+2025-02-18,Kitchen,4,Tuesday
+2025-02-18,Security,4,Tuesday
+2025-02-18,Maintenance,5,Tuesday
+2025-02-19,Front Desk,5,Wednesday
+2025-02-19,Housekeeping,3,Wednesday
+2025-02-19,Kitchen,4,Wednesday
+2025-02-19,Security,3,Wednesday
+2025-02-19,Maintenance,3,Wednesday
+2025-02-20,Front Desk,3,Thursday
+2025-02-20,Housekeeping,3,Thursday
+2025-02-20,Kitchen,4,Thursday
+2025-02-20,Security,3,Thursday
+2025-02-20,Maintenance,4,Thursday
+2025-02-21,Front Desk,4,Friday
+2025-02-21,Housekeeping,5,Friday
+2025-02-21,Kitchen,4,Friday
+2025-02-21,Security,5,Friday
+2025-02-21,Maintenance,4,Friday
+2025-02-22,Front Desk,6,Saturday
+2025-02-22,Housekeeping,6,Saturday
+2025-02-22,Kitchen,7,Saturday
+2025-02-22,Security,7,Saturday
+2025-02-22,Maintenance,5,Saturday
+2025-02-23,Front Desk,7,Sunday
+2025-02-23,Housekeeping,7,Sunday
+2025-02-23,Kitchen,7,Sunday
+2025-02-23,Security,7,Sunday
+2025-02-23,Maintenance,5,Sunday
+2025-02-24,Front Desk,5,Monday
+2025-02-24,Housekeeping,4,Monday
+2025-02-24,Kitchen,4,Monday
+2025-02-24,Security,5,Monday
+2025-02-24,Maintenance,5,Monday
+2025-02-25,Front Desk,4,Tuesday
+2025-02-25,Housekeeping,4,Tuesday
+2025-02-25,Kitchen,3,Tuesday
+2025-02-25,Security,4,Tuesday
+2025-02-25,Maintenance,4,Tuesday
+2025-02-26,Front Desk,5,Wednesday
+2025-02-26,Housekeeping,4,Wednesday
+2025-02-26,Kitchen,3,Wednesday
+2025-02-26,Security,4,Wednesday
+2025-02-26,Maintenance,5,Wednesday
+2025-02-27,Front Desk,5,Thursday
+2025-02-27,Housekeeping,4,Thursday
+2025-02-27,Kitchen,5,Thursday
+2025-02-27,Security,3,Thursday
+2025-02-27,Maintenance,3,Thursday
+2025-02-28,Front Desk,4,Friday
+2025-02-28,Housekeeping,4,Friday
+2025-02-28,Kitchen,4,Friday
+2025-02-28,Security,5,Friday
+2025-02-28,Maintenance,3,Friday
+2025-03-01,Front Desk,5,Saturday
+2025-03-01,Housekeeping,7,Saturday
+2025-03-01,Kitchen,5,Saturday
+2025-03-01,Security,6,Saturday
+2025-03-01,Maintenance,6,Saturday
+2025-03-02,Front Desk,6,Sunday
+2025-03-02,Housekeeping,5,Sunday
+2025-03-02,Kitchen,6,Sunday
+2025-03-02,Security,7,Sunday
+2025-03-02,Maintenance,7,Sunday
+2025-03-03,Front Desk,3,Monday
+2025-03-03,Housekeeping,5,Monday
+2025-03-03,Kitchen,5,Monday
+2025-03-03,Security,3,Monday
+2025-03-03,Maintenance,4,Monday
+2025-03-04,Front Desk,4,Tuesday
+2025-03-04,Housekeeping,4,Tuesday
+2025-03-04,Kitchen,3,Tuesday
+2025-03-04,Security,5,Tuesday
+2025-03-04,Maintenance,4,Tuesday
+2025-03-05,Front Desk,4,Wednesday
+2025-03-05,Housekeeping,3,Wednesday
+2025-03-05,Kitchen,4,Wednesday
+2025-03-05,Security,3,Wednesday
+2025-03-05,Maintenance,5,Wednesday
+2025-03-06,Front Desk,3,Thursday
+2025-03-06,Housekeeping,3,Thursday
+2025-03-06,Kitchen,3,Thursday
+2025-03-06,Security,3,Thursday
+2025-03-06,Maintenance,5,Thursday
+2025-03-07,Front Desk,5,Friday
+2025-03-07,Housekeeping,4,Friday
+2025-03-07,Kitchen,5,Friday
+2025-03-07,Security,5,Friday
+2025-03-07,Maintenance,4,Friday
+2025-03-08,Front Desk,7,Saturday
+2025-03-08,Housekeeping,5,Saturday
+2025-03-08,Kitchen,5,Saturday
+2025-03-08,Security,6,Saturday
+2025-03-08,Maintenance,6,Saturday
+2025-03-09,Front Desk,6,Sunday
+2025-03-09,Housekeeping,5,Sunday
+2025-03-09,Kitchen,7,Sunday
+2025-03-09,Security,5,Sunday
+2025-03-09,Maintenance,6,Sunday
+2025-03-10,Front Desk,5,Monday
+2025-03-10,Housekeeping,5,Monday
+2025-03-10,Kitchen,3,Monday
+2025-03-10,Security,4,Monday
+2025-03-10,Maintenance,3,Monday
+2025-03-11,Front Desk,5,Tuesday
+2025-03-11,Housekeeping,3,Tuesday
+2025-03-11,Kitchen,3,Tuesday
+2025-03-11,Security,4,Tuesday
+2025-03-11,Maintenance,4,Tuesday
+2025-03-12,Front Desk,5,Wednesday
+2025-03-12,Housekeeping,3,Wednesday
+2025-03-12,Kitchen,3,Wednesday
+2025-03-12,Security,3,Wednesday
+2025-03-12,Maintenance,5,Wednesday
+2025-03-13,Front Desk,5,Thursday
+2025-03-13,Housekeeping,4,Thursday
+2025-03-13,Kitchen,4,Thursday
+2025-03-13,Security,4,Thursday
+2025-03-13,Maintenance,3,Thursday
+2025-03-14,Front Desk,3,Friday
+2025-03-14,Housekeeping,4,Friday
+2025-03-14,Kitchen,3,Friday
+2025-03-14,Security,4,Friday
+2025-03-14,Maintenance,5,Friday
+2025-03-15,Front Desk,6,Saturday
+2025-03-15,Housekeeping,7,Saturday
+2025-03-15,Kitchen,5,Saturday
+2025-03-15,Security,6,Saturday
+2025-03-15,Maintenance,5,Saturday
+2025-03-16,Front Desk,7,Sunday
+2025-03-16,Housekeeping,7,Sunday
+2025-03-16,Kitchen,7,Sunday
+2025-03-16,Security,5,Sunday
+2025-03-16,Maintenance,5,Sunday
+2025-03-17,Front Desk,3,Monday
+2025-03-17,Housekeeping,3,Monday
+2025-03-17,Kitchen,5,Monday
+2025-03-17,Security,5,Monday
+2025-03-17,Maintenance,4,Monday
+2025-03-18,Front Desk,4,Tuesday
+2025-03-18,Housekeeping,3,Tuesday
+2025-03-18,Kitchen,5,Tuesday
+2025-03-18,Security,5,Tuesday
+2025-03-18,Maintenance,5,Tuesday
+2025-03-19,Front Desk,4,Wednesday
+2025-03-19,Housekeeping,4,Wednesday
+2025-03-19,Kitchen,5,Wednesday
+2025-03-19,Security,5,Wednesday
+2025-03-19,Maintenance,5,Wednesday
+2025-03-20,Front Desk,4,Thursday
+2025-03-20,Housekeeping,5,Thursday
+2025-03-20,Kitchen,5,Thursday
+2025-03-20,Security,3,Thursday
+2025-03-20,Maintenance,3,Thursday
+2025-03-21,Front Desk,4,Friday
+2025-03-21,Housekeeping,5,Friday
+2025-03-21,Kitchen,5,Friday
+2025-03-21,Security,3,Friday
+2025-03-21,Maintenance,4,Friday
+2025-03-22,Front Desk,5,Saturday
+2025-03-22,Housekeeping,5,Saturday
+2025-03-22,Kitchen,5,Saturday
+2025-03-22,Security,5,Saturday
+2025-03-22,Maintenance,7,Saturday
+2025-03-23,Front Desk,7,Sunday
+2025-03-23,Housekeeping,5,Sunday
+2025-03-23,Kitchen,6,Sunday
+2025-03-23,Security,6,Sunday
+2025-03-23,Maintenance,6,Sunday
+2025-03-24,Front Desk,4,Monday
+2025-03-24,Housekeeping,3,Monday
+2025-03-24,Kitchen,5,Monday
+2025-03-24,Security,4,Monday
+2025-03-24,Maintenance,3,Monday
+2025-03-25,Front Desk,4,Tuesday
+2025-03-25,Housekeeping,4,Tuesday
+2025-03-25,Kitchen,3,Tuesday
+2025-03-25,Security,5,Tuesday
+2025-03-25,Maintenance,5,Tuesday
+2025-03-26,Front Desk,3,Wednesday
+2025-03-26,Housekeeping,5,Wednesday
+2025-03-26,Kitchen,3,Wednesday
+2025-03-26,Security,3,Wednesday
+2025-03-26,Maintenance,3,Wednesday
+2025-03-27,Front Desk,5,Thursday
+2025-03-27,Housekeeping,3,Thursday
+2025-03-27,Kitchen,4,Thursday
+2025-03-27,Security,5,Thursday
+2025-03-27,Maintenance,5,Thursday
+2025-03-28,Front Desk,5,Friday
+2025-03-28,Housekeeping,5,Friday
+2025-03-28,Kitchen,4,Friday
+2025-03-28,Security,5,Friday
+2025-03-28,Maintenance,5,Friday
+2025-03-29,Front Desk,5,Saturday
+2025-03-29,Housekeeping,7,Saturday
+2025-03-29,Kitchen,6,Saturday
+2025-03-29,Security,6,Saturday
+2025-03-29,Maintenance,6,Saturday
+2025-03-30,Front Desk,6,Sunday
+2025-03-30,Housekeeping,7,Sunday
+2025-03-30,Kitchen,7,Sunday
+2025-03-30,Security,6,Sunday
+2025-03-30,Maintenance,6,Sunday
+2025-03-31,Front Desk,5,Monday
+2025-03-31,Housekeeping,4,Monday
+2025-03-31,Kitchen,3,Monday
+2025-03-31,Security,4,Monday
+2025-03-31,Maintenance,4,Monday
+2025-04-01,Front Desk,3,Tuesday
+2025-04-01,Housekeeping,3,Tuesday
+2025-04-01,Kitchen,5,Tuesday
+2025-04-01,Security,5,Tuesday
+2025-04-01,Maintenance,3,Tuesday
+2025-04-02,Front Desk,3,Wednesday
+2025-04-02,Housekeeping,5,Wednesday
+2025-04-02,Kitchen,4,Wednesday
+2025-04-02,Security,3,Wednesday
+2025-04-02,Maintenance,5,Wednesday
+2025-04-03,Front Desk,4,Thursday
+2025-04-03,Housekeeping,3,Thursday
+2025-04-03,Kitchen,4,Thursday
+2025-04-03,Security,5,Thursday
+2025-04-03,Maintenance,3,Thursday
+2025-04-04,Front Desk,4,Friday
+2025-04-04,Housekeeping,3,Friday
+2025-04-04,Kitchen,4,Friday
+2025-04-04,Security,5,Friday
+2025-04-04,Maintenance,5,Friday
+2025-04-05,Front Desk,5,Saturday
+2025-04-05,Housekeeping,6,Saturday
+2025-04-05,Kitchen,5,Saturday
+2025-04-05,Security,5,Saturday
+2025-04-05,Maintenance,6,Saturday
+2025-04-06,Front Desk,6,Sunday
+2025-04-06,Housekeeping,6,Sunday
+2025-04-06,Kitchen,7,Sunday
+2025-04-06,Security,5,Sunday
+2025-04-06,Maintenance,5,Sunday
+2025-04-07,Front Desk,5,Monday
+2025-04-07,Housekeeping,4,Monday
+2025-04-07,Kitchen,5,Monday
+2025-04-07,Security,5,Monday
+2025-04-07,Maintenance,5,Monday
+2025-04-08,Front Desk,3,Tuesday
+2025-04-08,Housekeeping,5,Tuesday
+2025-04-08,Kitchen,3,Tuesday
+2025-04-08,Security,3,Tuesday
+2025-04-08,Maintenance,3,Tuesday
+2025-04-09,Front Desk,4,Wednesday
+2025-04-09,Housekeeping,3,Wednesday
+2025-04-09,Kitchen,3,Wednesday
+2025-04-09,Security,4,Wednesday
+2025-04-09,Maintenance,3,Wednesday
+2025-04-10,Front Desk,5,Thursday
+2025-04-10,Housekeeping,5,Thursday
+2025-04-10,Kitchen,3,Thursday
+2025-04-10,Security,4,Thursday
+2025-04-10,Maintenance,5,Thursday
+2025-04-11,Front Desk,4,Friday
+2025-04-11,Housekeeping,4,Friday
+2025-04-11,Kitchen,5,Friday
+2025-04-11,Security,4,Friday
+2025-04-11,Maintenance,5,Friday
+2025-04-12,Front Desk,6,Saturday
+2025-04-12,Housekeeping,7,Saturday
+2025-04-12,Kitchen,5,Saturday
+2025-04-12,Security,7,Saturday
+2025-04-12,Maintenance,7,Saturday
+2025-04-13,Front Desk,7,Sunday
+2025-04-13,Housekeeping,7,Sunday
+2025-04-13,Kitchen,6,Sunday
+2025-04-13,Security,5,Sunday
+2025-04-13,Maintenance,7,Sunday
+2025-04-14,Front Desk,4,Monday
+2025-04-14,Housekeeping,3,Monday
+2025-04-14,Kitchen,3,Monday
+2025-04-14,Security,3,Monday
+2025-04-14,Maintenance,3,Monday
+2025-04-15,Front Desk,5,Tuesday
+2025-04-15,Housekeeping,5,Tuesday
+2025-04-15,Kitchen,4,Tuesday
+2025-04-15,Security,4,Tuesday
+2025-04-15,Maintenance,4,Tuesday
+2025-04-16,Front Desk,3,Wednesday
+2025-04-16,Housekeeping,3,Wednesday
+2025-04-16,Kitchen,5,Wednesday
+2025-04-16,Security,3,Wednesday
+2025-04-16,Maintenance,3,Wednesday
+2025-04-17,Front Desk,3,Thursday
+2025-04-17,Housekeeping,4,Thursday
+2025-04-17,Kitchen,4,Thursday
+2025-04-17,Security,5,Thursday
+2025-04-17,Maintenance,3,Thursday
+2025-04-18,Front Desk,3,Friday
+2025-04-18,Housekeeping,5,Friday
+2025-04-18,Kitchen,3,Friday
+2025-04-18,Security,3,Friday
+2025-04-18,Maintenance,4,Friday
+2025-04-19,Front Desk,7,Saturday
+2025-04-19,Housekeeping,7,Saturday
+2025-04-19,Kitchen,7,Saturday
+2025-04-19,Security,7,Saturday
+2025-04-19,Maintenance,6,Saturday
+2025-04-20,Front Desk,6,Sunday
+2025-04-20,Housekeeping,5,Sunday
+2025-04-20,Kitchen,5,Sunday
+2025-04-20,Security,5,Sunday
+2025-04-20,Maintenance,5,Sunday
+2025-04-21,Front Desk,4,Monday
+2025-04-21,Housekeeping,5,Monday
+2025-04-21,Kitchen,4,Monday
+2025-04-21,Security,3,Monday
+2025-04-21,Maintenance,4,Monday
+2025-04-22,Front Desk,5,Tuesday
+2025-04-22,Housekeeping,5,Tuesday
+2025-04-22,Kitchen,4,Tuesday
+2025-04-22,Security,4,Tuesday
+2025-04-22,Maintenance,4,Tuesday
+2025-04-23,Front Desk,3,Wednesday
+2025-04-23,Housekeeping,4,Wednesday
+2025-04-23,Kitchen,4,Wednesday
+2025-04-23,Security,4,Wednesday
+2025-04-23,Maintenance,5,Wednesday
+2025-04-24,Front Desk,5,Thursday
+2025-04-24,Housekeeping,3,Thursday
+2025-04-24,Kitchen,3,Thursday
+2025-04-24,Security,5,Thursday
+2025-04-24,Maintenance,5,Thursday
+2025-04-25,Front Desk,5,Friday
+2025-04-25,Housekeeping,4,Friday
+2025-04-25,Kitchen,4,Friday
+2025-04-25,Security,5,Friday
+2025-04-25,Maintenance,4,Friday
+2025-04-26,Front Desk,6,Saturday
+2025-04-26,Housekeeping,5,Saturday
+2025-04-26,Kitchen,7,Saturday
+2025-04-26,Security,7,Saturday
+2025-04-26,Maintenance,6,Saturday
+2025-04-27,Front Desk,7,Sunday
+2025-04-27,Housekeeping,5,Sunday
+2025-04-27,Kitchen,5,Sunday
+2025-04-27,Security,5,Sunday
+2025-04-27,Maintenance,7,Sunday
+2025-04-28,Front Desk,5,Monday
+2025-04-28,Housekeeping,5,Monday
+2025-04-28,Kitchen,5,Monday
+2025-04-28,Security,5,Monday
+2025-04-28,Maintenance,3,Monday
+2025-04-29,Front Desk,4,Tuesday
+2025-04-29,Housekeeping,3,Tuesday
+2025-04-29,Kitchen,5,Tuesday
+2025-04-29,Security,3,Tuesday
+2025-04-29,Maintenance,5,Tuesday
+2025-04-30,Front Desk,5,Wednesday
+2025-04-30,Housekeeping,3,Wednesday
+2025-04-30,Kitchen,5,Wednesday
+2025-04-30,Security,4,Wednesday
+2025-04-30,Maintenance,5,Wednesday
+2025-05-01,Front Desk,4,Thursday
+2025-05-01,Housekeeping,4,Thursday
+2025-05-01,Kitchen,5,Thursday
+2025-05-01,Security,3,Thursday
+2025-05-01,Maintenance,4,Thursday
+2025-05-02,Front Desk,3,Friday
+2025-05-02,Housekeeping,4,Friday
+2025-05-02,Kitchen,5,Friday
+2025-05-02,Security,5,Friday
+2025-05-02,Maintenance,4,Friday
+2025-05-03,Front Desk,7,Saturday
+2025-05-03,Housekeeping,6,Saturday
+2025-05-03,Kitchen,7,Saturday
+2025-05-03,Security,5,Saturday
+2025-05-03,Maintenance,7,Saturday
+2025-05-04,Front Desk,5,Sunday
+2025-05-04,Housekeeping,7,Sunday
+2025-05-04,Kitchen,5,Sunday
+2025-05-04,Security,7,Sunday
+2025-05-04,Maintenance,5,Sunday
+2025-05-05,Front Desk,4,Monday
+2025-05-05,Housekeeping,4,Monday
+2025-05-05,Kitchen,3,Monday
+2025-05-05,Security,5,Monday
+2025-05-05,Maintenance,3,Monday
+2025-05-06,Front Desk,5,Tuesday
+2025-05-06,Housekeeping,4,Tuesday
+2025-05-06,Kitchen,5,Tuesday
+2025-05-06,Security,4,Tuesday
+2025-05-06,Maintenance,5,Tuesday
+2025-05-07,Front Desk,5,Wednesday
+2025-05-07,Housekeeping,5,Wednesday
+2025-05-07,Kitchen,3,Wednesday
+2025-05-07,Security,3,Wednesday
+2025-05-07,Maintenance,4,Wednesday
+2025-05-08,Front Desk,4,Thursday
+2025-05-08,Housekeeping,3,Thursday
+2025-05-08,Kitchen,4,Thursday
+2025-05-08,Security,3,Thursday
+2025-05-08,Maintenance,5,Thursday
+2025-05-09,Front Desk,4,Friday
+2025-05-09,Housekeeping,4,Friday
+2025-05-09,Kitchen,3,Friday
+2025-05-09,Security,4,Friday
+2025-05-09,Maintenance,4,Friday
+2025-05-10,Front Desk,7,Saturday
+2025-05-10,Housekeeping,6,Saturday
+2025-05-10,Kitchen,7,Saturday
+2025-05-10,Security,5,Saturday
+2025-05-10,Maintenance,6,Saturday
+2025-05-11,Front Desk,7,Sunday
+2025-05-11,Housekeeping,5,Sunday
+2025-05-11,Kitchen,6,Sunday
+2025-05-11,Security,5,Sunday
+2025-05-11,Maintenance,6,Sunday
+2025-05-12,Front Desk,3,Monday
+2025-05-12,Housekeeping,3,Monday
+2025-05-12,Kitchen,5,Monday
+2025-05-12,Security,3,Monday
+2025-05-12,Maintenance,4,Monday
+2025-05-13,Front Desk,4,Tuesday
+2025-05-13,Housekeeping,5,Tuesday
+2025-05-13,Kitchen,4,Tuesday
+2025-05-13,Security,4,Tuesday
+2025-05-13,Maintenance,4,Tuesday
+2025-05-14,Front Desk,3,Wednesday
+2025-05-14,Housekeeping,3,Wednesday
+2025-05-14,Kitchen,4,Wednesday
+2025-05-14,Security,5,Wednesday
+2025-05-14,Maintenance,3,Wednesday
+2025-05-15,Front Desk,5,Thursday
+2025-05-15,Housekeeping,4,Thursday
+2025-05-15,Kitchen,4,Thursday
+2025-05-15,Security,3,Thursday
+2025-05-15,Maintenance,4,Thursday
+2025-05-16,Front Desk,3,Friday
+2025-05-16,Housekeeping,4,Friday
+2025-05-16,Kitchen,4,Friday
+2025-05-16,Security,3,Friday
+2025-05-16,Maintenance,3,Friday
+2025-05-17,Front Desk,5,Saturday
+2025-05-17,Housekeeping,6,Saturday
+2025-05-17,Kitchen,6,Saturday
+2025-05-17,Security,7,Saturday
+2025-05-17,Maintenance,5,Saturday
+2025-05-18,Front Desk,6,Sunday
+2025-05-18,Housekeeping,6,Sunday
+2025-05-18,Kitchen,5,Sunday
+2025-05-18,Security,7,Sunday
+2025-05-18,Maintenance,5,Sunday
+2025-05-19,Front Desk,5,Monday
+2025-05-19,Housekeeping,4,Monday
+2025-05-19,Kitchen,5,Monday
+2025-05-19,Security,4,Monday
+2025-05-19,Maintenance,3,Monday
+2025-05-20,Front Desk,3,Tuesday
+2025-05-20,Housekeeping,3,Tuesday
+2025-05-20,Kitchen,5,Tuesday
+2025-05-20,Security,4,Tuesday
+2025-05-20,Maintenance,3,Tuesday
+2025-05-21,Front Desk,3,Wednesday
+2025-05-21,Housekeeping,4,Wednesday
+2025-05-21,Kitchen,3,Wednesday
+2025-05-21,Security,4,Wednesday
+2025-05-21,Maintenance,4,Wednesday
+2025-05-22,Front Desk,4,Thursday
+2025-05-22,Housekeeping,4,Thursday
+2025-05-22,Kitchen,4,Thursday
+2025-05-22,Security,5,Thursday
+2025-05-22,Maintenance,3,Thursday
+2025-05-23,Front Desk,5,Friday
+2025-05-23,Housekeeping,3,Friday
+2025-05-23,Kitchen,5,Friday
+2025-05-23,Security,4,Friday
+2025-05-23,Maintenance,3,Friday
+2025-05-24,Front Desk,5,Saturday
+2025-05-24,Housekeeping,7,Saturday
+2025-05-24,Kitchen,7,Saturday
+2025-05-24,Security,5,Saturday
+2025-05-24,Maintenance,7,Saturday
+2025-05-25,Front Desk,7,Sunday
+2025-05-25,Housekeeping,7,Sunday
+2025-05-25,Kitchen,6,Sunday
+2025-05-25,Security,6,Sunday
+2025-05-25,Maintenance,7,Sunday
+2025-05-26,Front Desk,5,Monday
+2025-05-26,Housekeeping,4,Monday
+2025-05-26,Kitchen,4,Monday
+2025-05-26,Security,3,Monday
+2025-05-26,Maintenance,3,Monday
+2025-05-27,Front Desk,4,Tuesday
+2025-05-27,Housekeeping,5,Tuesday
+2025-05-27,Kitchen,5,Tuesday
+2025-05-27,Security,5,Tuesday
+2025-05-27,Maintenance,5,Tuesday
+2025-05-28,Front Desk,3,Wednesday
+2025-05-28,Housekeeping,4,Wednesday
+2025-05-28,Kitchen,5,Wednesday
+2025-05-28,Security,3,Wednesday
+2025-05-28,Maintenance,5,Wednesday
+2025-05-29,Front Desk,4,Thursday
+2025-05-29,Housekeeping,3,Thursday
+2025-05-29,Kitchen,4,Thursday
+2025-05-29,Security,4,Thursday
+2025-05-29,Maintenance,3,Thursday
+2025-05-30,Front Desk,3,Friday
+2025-05-30,Housekeeping,3,Friday
+2025-05-30,Kitchen,3,Friday
+2025-05-30,Security,3,Friday
+2025-05-30,Maintenance,3,Friday
+2025-05-31,Front Desk,5,Saturday
+2025-05-31,Housekeeping,7,Saturday
+2025-05-31,Kitchen,6,Saturday
+2025-05-31,Security,5,Saturday
+2025-05-31,Maintenance,7,Saturday
+2025-06-01,Front Desk,7,Sunday
+2025-06-01,Housekeeping,7,Sunday
+2025-06-01,Kitchen,6,Sunday
+2025-06-01,Security,5,Sunday
+2025-06-01,Maintenance,7,Sunday
+2025-06-02,Front Desk,4,Monday
+2025-06-02,Housekeeping,4,Monday
+2025-06-02,Kitchen,4,Monday
+2025-06-02,Security,5,Monday
+2025-06-02,Maintenance,3,Monday
+2025-06-03,Front Desk,5,Tuesday
+2025-06-03,Housekeeping,5,Tuesday
+2025-06-03,Kitchen,3,Tuesday
+2025-06-03,Security,3,Tuesday
+2025-06-03,Maintenance,3,Tuesday
+2025-06-04,Front Desk,4,Wednesday
+2025-06-04,Housekeeping,3,Wednesday
+2025-06-04,Kitchen,5,Wednesday
+2025-06-04,Security,3,Wednesday
+2025-06-04,Maintenance,5,Wednesday
+2025-06-05,Front Desk,4,Thursday
+2025-06-05,Housekeeping,5,Thursday
+2025-06-05,Kitchen,5,Thursday
+2025-06-05,Security,3,Thursday
+2025-06-05,Maintenance,3,Thursday
+2025-06-06,Front Desk,5,Friday
+2025-06-06,Housekeeping,3,Friday
+2025-06-06,Kitchen,4,Friday
+2025-06-06,Security,4,Friday
+2025-06-06,Maintenance,3,Friday
+2025-06-07,Front Desk,6,Saturday
+2025-06-07,Housekeeping,5,Saturday
+2025-06-07,Kitchen,7,Saturday
+2025-06-07,Security,7,Saturday
+2025-06-07,Maintenance,6,Saturday
+2025-06-08,Front Desk,5,Sunday
+2025-06-08,Housekeeping,5,Sunday
+2025-06-08,Kitchen,6,Sunday
+2025-06-08,Security,7,Sunday
+2025-06-08,Maintenance,6,Sunday
+2025-06-09,Front Desk,5,Monday
+2025-06-09,Housekeeping,3,Monday
+2025-06-09,Kitchen,5,Monday
+2025-06-09,Security,4,Monday
+2025-06-09,Maintenance,3,Monday
+2025-06-10,Front Desk,4,Tuesday
+2025-06-10,Housekeeping,4,Tuesday
+2025-06-10,Kitchen,5,Tuesday
+2025-06-10,Security,4,Tuesday
+2025-06-10,Maintenance,5,Tuesday
+2025-06-11,Front Desk,3,Wednesday
+2025-06-11,Housekeeping,5,Wednesday
+2025-06-11,Kitchen,3,Wednesday
+2025-06-11,Security,5,Wednesday
+2025-06-11,Maintenance,4,Wednesday
+2025-06-12,Front Desk,5,Thursday
+2025-06-12,Housekeeping,5,Thursday
+2025-06-12,Kitchen,3,Thursday
+2025-06-12,Security,4,Thursday
+2025-06-12,Maintenance,5,Thursday
+2025-06-13,Front Desk,4,Friday
+2025-06-13,Housekeeping,5,Friday
+2025-06-13,Kitchen,5,Friday
+2025-06-13,Security,4,Friday
+2025-06-13,Maintenance,5,Friday
+2025-06-14,Front Desk,6,Saturday
+2025-06-14,Housekeeping,7,Saturday
+2025-06-14,Kitchen,5,Saturday
+2025-06-14,Security,6,Saturday
+2025-06-14,Maintenance,7,Saturday
+2025-06-15,Front Desk,7,Sunday
+2025-06-15,Housekeeping,5,Sunday
+2025-06-15,Kitchen,6,Sunday
+2025-06-15,Security,7,Sunday
+2025-06-15,Maintenance,5,Sunday
+2025-06-16,Front Desk,5,Monday
+2025-06-16,Housekeeping,4,Monday
+2025-06-16,Kitchen,5,Monday
+2025-06-16,Security,5,Monday
+2025-06-16,Maintenance,5,Monday
+2025-06-17,Front Desk,5,Tuesday
+2025-06-17,Housekeeping,3,Tuesday
+2025-06-17,Kitchen,3,Tuesday
+2025-06-17,Security,4,Tuesday
+2025-06-17,Maintenance,3,Tuesday
+2025-06-18,Front Desk,3,Wednesday
+2025-06-18,Housekeeping,4,Wednesday
+2025-06-18,Kitchen,3,Wednesday
+2025-06-18,Security,3,Wednesday
+2025-06-18,Maintenance,4,Wednesday
+2025-06-19,Front Desk,4,Thursday
+2025-06-19,Housekeeping,4,Thursday
+2025-06-19,Kitchen,5,Thursday
+2025-06-19,Security,5,Thursday
+2025-06-19,Maintenance,4,Thursday
+2025-06-20,Front Desk,4,Friday
+2025-06-20,Housekeeping,4,Friday
+2025-06-20,Kitchen,5,Friday
+2025-06-20,Security,5,Friday
+2025-06-20,Maintenance,3,Friday
+2025-06-21,Front Desk,5,Saturday
+2025-06-21,Housekeeping,6,Saturday
+2025-06-21,Kitchen,7,Saturday
+2025-06-21,Security,7,Saturday
+2025-06-21,Maintenance,7,Saturday
+2025-06-22,Front Desk,6,Sunday
+2025-06-22,Housekeeping,5,Sunday
+2025-06-22,Kitchen,6,Sunday
+2025-06-22,Security,5,Sunday
+2025-06-22,Maintenance,5,Sunday
+2025-06-23,Front Desk,4,Monday
+2025-06-23,Housekeeping,3,Monday
+2025-06-23,Kitchen,3,Monday
+2025-06-23,Security,5,Monday
+2025-06-23,Maintenance,3,Monday
+2025-06-24,Front Desk,4,Tuesday
+2025-06-24,Housekeeping,4,Tuesday
+2025-06-24,Kitchen,3,Tuesday
+2025-06-24,Security,5,Tuesday
+2025-06-24,Maintenance,5,Tuesday
+2025-06-25,Front Desk,3,Wednesday
+2025-06-25,Housekeeping,3,Wednesday
+2025-06-25,Kitchen,4,Wednesday
+2025-06-25,Security,3,Wednesday
+2025-06-25,Maintenance,5,Wednesday
+2025-06-26,Front Desk,3,Thursday
+2025-06-26,Housekeeping,4,Thursday
+2025-06-26,Kitchen,4,Thursday
+2025-06-26,Security,4,Thursday
+2025-06-26,Maintenance,4,Thursday
+2025-06-27,Front Desk,4,Friday
+2025-06-27,Housekeeping,3,Friday
+2025-06-27,Kitchen,3,Friday
+2025-06-27,Security,3,Friday
+2025-06-27,Maintenance,3,Friday
+2025-06-28,Front Desk,6,Saturday
+2025-06-28,Housekeeping,7,Saturday
+2025-06-28,Kitchen,5,Saturday
+2025-06-28,Security,7,Saturday
+2025-06-28,Maintenance,5,Saturday
+2025-06-29,Front Desk,5,Sunday
+2025-06-29,Housekeeping,7,Sunday
+2025-06-29,Kitchen,6,Sunday
+2025-06-29,Security,5,Sunday
+2025-06-29,Maintenance,5,Sunday
+2025-06-30,Front Desk,3,Monday
+2025-06-30,Housekeeping,5,Monday
+2025-06-30,Kitchen,4,Monday
+2025-06-30,Security,5,Monday
+2025-06-30,Maintenance,5,Monday
+2025-07-01,Front Desk,4,Tuesday
+2025-07-01,Housekeeping,5,Tuesday
+2025-07-01,Kitchen,4,Tuesday
+2025-07-01,Security,3,Tuesday
+2025-07-01,Maintenance,4,Tuesday
+2025-07-02,Front Desk,3,Wednesday
+2025-07-02,Housekeeping,5,Wednesday
+2025-07-02,Kitchen,5,Wednesday
+2025-07-02,Security,3,Wednesday
+2025-07-02,Maintenance,5,Wednesday
+2025-07-03,Front Desk,4,Thursday
+2025-07-03,Housekeeping,3,Thursday
+2025-07-03,Kitchen,5,Thursday
+2025-07-03,Security,3,Thursday
+2025-07-03,Maintenance,4,Thursday
+2025-07-04,Front Desk,4,Friday
+2025-07-04,Housekeeping,5,Friday
+2025-07-04,Kitchen,4,Friday
+2025-07-04,Security,3,Friday
+2025-07-04,Maintenance,4,Friday
+2025-07-05,Front Desk,5,Saturday
+2025-07-05,Housekeeping,5,Saturday
+2025-07-05,Kitchen,6,Saturday
+2025-07-05,Security,7,Saturday
+2025-07-05,Maintenance,6,Saturday
+2025-07-06,Front Desk,5,Sunday
+2025-07-06,Housekeeping,5,Sunday
+2025-07-06,Kitchen,6,Sunday
+2025-07-06,Security,7,Sunday
+2025-07-06,Maintenance,7,Sunday
+2025-07-07,Front Desk,3,Monday
+2025-07-07,Housekeeping,3,Monday
+2025-07-07,Kitchen,5,Monday
+2025-07-07,Security,4,Monday
+2025-07-07,Maintenance,3,Monday
+2025-07-08,Front Desk,3,Tuesday
+2025-07-08,Housekeeping,5,Tuesday
+2025-07-08,Kitchen,4,Tuesday
+2025-07-08,Security,5,Tuesday
+2025-07-08,Maintenance,4,Tuesday
+2025-07-09,Front Desk,4,Wednesday
+2025-07-09,Housekeeping,4,Wednesday
+2025-07-09,Kitchen,3,Wednesday
+2025-07-09,Security,5,Wednesday
+2025-07-09,Maintenance,5,Wednesday
+2025-07-10,Front Desk,4,Thursday
+2025-07-10,Housekeeping,3,Thursday
+2025-07-10,Kitchen,3,Thursday
+2025-07-10,Security,5,Thursday
+2025-07-10,Maintenance,3,Thursday
+2025-07-11,Front Desk,3,Friday
+2025-07-11,Housekeeping,4,Friday
+2025-07-11,Kitchen,3,Friday
+2025-07-11,Security,4,Friday
+2025-07-11,Maintenance,5,Friday
+2025-07-12,Front Desk,5,Saturday
+2025-07-12,Housekeeping,7,Saturday
+2025-07-12,Kitchen,7,Saturday
+2025-07-12,Security,5,Saturday
+2025-07-12,Maintenance,5,Saturday
+2025-07-13,Front Desk,7,Sunday
+2025-07-13,Housekeeping,5,Sunday
+2025-07-13,Kitchen,6,Sunday
+2025-07-13,Security,6,Sunday
+2025-07-13,Maintenance,5,Sunday
+2025-07-14,Front Desk,5,Monday
+2025-07-14,Housekeeping,3,Monday
+2025-07-14,Kitchen,3,Monday
+2025-07-14,Security,5,Monday
+2025-07-14,Maintenance,5,Monday
+2025-07-15,Front Desk,4,Tuesday
+2025-07-15,Housekeeping,5,Tuesday
+2025-07-15,Kitchen,4,Tuesday
+2025-07-15,Security,5,Tuesday
+2025-07-15,Maintenance,3,Tuesday
+2025-07-16,Front Desk,4,Wednesday
+2025-07-16,Housekeeping,4,Wednesday
+2025-07-16,Kitchen,4,Wednesday
+2025-07-16,Security,3,Wednesday
+2025-07-16,Maintenance,3,Wednesday
+2025-07-17,Front Desk,3,Thursday
+2025-07-17,Housekeeping,3,Thursday
+2025-07-17,Kitchen,3,Thursday
+2025-07-17,Security,4,Thursday
+2025-07-17,Maintenance,3,Thursday
+2025-07-18,Front Desk,4,Friday
+2025-07-18,Housekeeping,3,Friday
+2025-07-18,Kitchen,5,Friday
+2025-07-18,Security,4,Friday
+2025-07-18,Maintenance,5,Friday
+2025-07-19,Front Desk,6,Saturday
+2025-07-19,Housekeeping,7,Saturday
+2025-07-19,Kitchen,5,Saturday
+2025-07-19,Security,5,Saturday
+2025-07-19,Maintenance,5,Saturday
+2025-07-20,Front Desk,6,Sunday
+2025-07-20,Housekeeping,7,Sunday
+2025-07-20,Kitchen,5,Sunday
+2025-07-20,Security,7,Sunday
+2025-07-20,Maintenance,7,Sunday
+2025-07-21,Front Desk,3,Monday
+2025-07-21,Housekeeping,3,Monday
+2025-07-21,Kitchen,5,Monday
+2025-07-21,Security,3,Monday
+2025-07-21,Maintenance,3,Monday
+2025-07-22,Front Desk,3,Tuesday
+2025-07-22,Housekeeping,4,Tuesday
+2025-07-22,Kitchen,5,Tuesday
+2025-07-22,Security,5,Tuesday
+2025-07-22,Maintenance,4,Tuesday
+2025-07-23,Front Desk,5,Wednesday
+2025-07-23,Housekeeping,3,Wednesday
+2025-07-23,Kitchen,5,Wednesday
+2025-07-23,Security,3,Wednesday
+2025-07-23,Maintenance,4,Wednesday
+2025-07-24,Front Desk,3,Thursday
+2025-07-24,Housekeeping,5,Thursday
+2025-07-24,Kitchen,5,Thursday
+2025-07-24,Security,5,Thursday
+2025-07-24,Maintenance,4,Thursday
+2025-07-25,Front Desk,4,Friday
+2025-07-25,Housekeeping,5,Friday
+2025-07-25,Kitchen,3,Friday
+2025-07-25,Security,4,Friday
+2025-07-25,Maintenance,5,Friday
+2025-07-26,Front Desk,7,Saturday
+2025-07-26,Housekeeping,6,Saturday
+2025-07-26,Kitchen,6,Saturday
+2025-07-26,Security,6,Saturday
+2025-07-26,Maintenance,5,Saturday
+2025-07-27,Front Desk,5,Sunday
+2025-07-27,Housekeeping,7,Sunday
+2025-07-27,Kitchen,6,Sunday
+2025-07-27,Security,5,Sunday
+2025-07-27,Maintenance,6,Sunday
+2025-07-28,Front Desk,5,Monday
+2025-07-28,Housekeeping,3,Monday
+2025-07-28,Kitchen,3,Monday
+2025-07-28,Security,3,Monday
+2025-07-28,Maintenance,5,Monday
+2025-07-29,Front Desk,4,Tuesday
+2025-07-29,Housekeeping,3,Tuesday
+2025-07-29,Kitchen,5,Tuesday
+2025-07-29,Security,4,Tuesday
+2025-07-29,Maintenance,5,Tuesday
+2025-07-30,Front Desk,4,Wednesday
+2025-07-30,Housekeeping,5,Wednesday
+2025-07-30,Kitchen,4,Wednesday
+2025-07-30,Security,3,Wednesday
+2025-07-30,Maintenance,4,Wednesday
+2025-07-31,Front Desk,5,Thursday
+2025-07-31,Housekeeping,5,Thursday
+2025-07-31,Kitchen,4,Thursday
+2025-07-31,Security,3,Thursday
+2025-07-31,Maintenance,3,Thursday
+2025-08-01,Front Desk,4,Friday
+2025-08-01,Housekeeping,4,Friday
+2025-08-01,Kitchen,5,Friday
+2025-08-01,Security,3,Friday
+2025-08-01,Maintenance,4,Friday
+2025-08-02,Front Desk,5,Saturday
+2025-08-02,Housekeeping,6,Saturday
+2025-08-02,Kitchen,6,Saturday
+2025-08-02,Security,5,Saturday
+2025-08-02,Maintenance,6,Saturday
+2025-08-03,Front Desk,6,Sunday
+2025-08-03,Housekeeping,7,Sunday
+2025-08-03,Kitchen,6,Sunday
+2025-08-03,Security,6,Sunday
+2025-08-03,Maintenance,6,Sunday
+2025-08-04,Front Desk,5,Monday
+2025-08-04,Housekeeping,3,Monday
+2025-08-04,Kitchen,5,Monday
+2025-08-04,Security,5,Monday
+2025-08-04,Maintenance,3,Monday
+2025-08-05,Front Desk,5,Tuesday
+2025-08-05,Housekeeping,3,Tuesday
+2025-08-05,Kitchen,5,Tuesday
+2025-08-05,Security,3,Tuesday
+2025-08-05,Maintenance,4,Tuesday
+2025-08-06,Front Desk,5,Wednesday
+2025-08-06,Housekeeping,5,Wednesday
+2025-08-06,Kitchen,5,Wednesday
+2025-08-06,Security,5,Wednesday
+2025-08-06,Maintenance,4,Wednesday

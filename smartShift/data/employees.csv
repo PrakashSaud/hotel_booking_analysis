@@ -1,0 +1,61 @@
+employee_id,name,department,hourly_rate,max_weekly_hours,preferred_shift,join_date,status
+E001,Employee_1,Front Desk,15,40,Evening,2024-05-07,active
+E002,Employee_2,Housekeeping,16,40,Morning,2024-02-20,active
+E003,Employee_3,Front Desk,19,35,Morning,2024-07-01,active
+E004,Employee_4,Front Desk,16,30,Night,2024-07-02,active
+E005,Employee_5,Maintenance,16,40,Night,2024-02-20,active
+E006,Employee_6,Security,16,35,Night,2024-04-28,active
+E007,Employee_7,Front Desk,16,40,Evening,2024-04-12,active
+E008,Employee_8,Kitchen,16,30,Evening,2024-06-12,active
+E009,Employee_9,Front Desk,18,30,Evening,2024-04-11,active
+E010,Employee_10,Maintenance,17,30,Night,2024-03-13,active
+E011,Employee_11,Maintenance,15,35,Morning,2024-02-18,active
+E012,Employee_12,Kitchen,20,40,Evening,2024-02-12,active
+E013,Employee_13,Housekeeping,20,30,Morning,2024-05-11,active
+E014,Employee_14,Kitchen,15,30,Morning,2024-04-02,active
+E015,Employee_15,Kitchen,18,40,Evening,2024-05-28,active
+E016,Employee_16,Kitchen,17,30,Night,2024-05-01,active
+E017,Employee_17,Front Desk,19,40,Morning,2024-02-23,active
+E018,Employee_18,Housekeeping,16,35,Evening,2024-04-30,active
+E019,Employee_19,Maintenance,16,40,Evening,2024-06-24,active
+E020,Employee_20,Housekeeping,15,35,Evening,2024-05-01,active
+E021,Employee_21,Front Desk,16,40,Night,2024-04-19,active
+E022,Employee_22,Housekeeping,20,35,Evening,2024-03-13,active
+E023,Employee_23,Housekeeping,17,30,Morning,2024-02-16,active
+E024,Employee_24,Maintenance,17,40,Night,2024-03-21,active
+E025,Employee_25,Maintenance,18,35,Morning,2024-06-03,active
+E026,Employee_26,Maintenance,18,30,Morning,2024-06-10,active
+E027,Employee_27,Housekeeping,20,30,Night,2024-03-22,active
+E028,Employee_28,Maintenance,15,35,Evening,2024-03-11,active
+E029,Employee_29,Maintenance,17,40,Morning,2024-06-09,active
+E030,Employee_30,Maintenance,17,40,Evening,2024-06-10,active
+E031,Employee_31,Kitchen,18,30,Evening,2024-07-08,active
+E032,Employee_32,Kitchen,19,30,Night,2024-06-11,active
+E033,Employee_33,Kitchen,20,40,Night,2024-05-19,active
+E034,Employee_34,Housekeeping,17,30,Night,2024-02-24,active
+E035,Employee_35,Front Desk,19,35,Evening,2024-07-04,active
+E036,Employee_36,Front Desk,17,35,Morning,2024-06-24,active
+E037,Employee_37,Housekeeping,19,30,Morning,2024-03-06,active
+E038,Employee_38,Front Desk,19,30,Morning,2024-03-09,active
+E039,Employee_39,Maintenance,16,35,Night,2024-03-22,active
+E040,Employee_40,Housekeeping,19,40,Night,2024-05-18,active
+E041,Employee_41,Kitchen,18,40,Night,2024-04-04,active
+E042,Employee_42,Security,19,35,Morning,2024-05-06,active
+E043,Employee_43,Housekeeping,15,35,Morning,2024-02-09,active
+E044,Employee_44,Maintenance,16,40,Morning,2024-07-07,active
+E045,Employee_45,Front Desk,20,40,Morning,2024-05-11,active
+E046,Employee_46,Front Desk,15,35,Morning,2024-02-28,active
+E047,Employee_47,Housekeeping,17,40,Evening,2024-05-15,active
+E048,Employee_48,Maintenance,16,40,Night,2024-02-12,active
+E049,Employee_49,Security,16,35,Evening,2024-05-21,active
+E050,Employee_50,Front Desk,15,40,Evening,2024-04-09,active
+E051,Employee_51,Security,18,35,Night,2024-06-25,active
+E052,Employee_52,Front Desk,15,35,Night,2024-04-13,active
+E053,Employee_53,Front Desk,16,30,Morning,2024-02-22,active
+E054,Employee_54,Security,16,35,Morning,2024-04-28,active
+E055,Employee_55,Security,16,30,Evening,2024-02-19,active
+E056,Employee_56,Front Desk,15,40,Night,2024-07-05,active
+E057,Employee_57,Front Desk,16,30,Evening,2024-03-06,active
+E058,Employee_58,Security,16,35,Morning,2024-05-27,active
+E059,Employee_59,Security,15,35,Evening,2024-03-14,active
+E060,Employee_60,Kitchen,18,40,Night,2024-02-17,active
